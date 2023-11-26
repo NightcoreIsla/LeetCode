@@ -1,2 +1,2 @@
 # LeetCode
-Push my LeetCode problems slove ways
+Push my LeetCode problems solved ways
